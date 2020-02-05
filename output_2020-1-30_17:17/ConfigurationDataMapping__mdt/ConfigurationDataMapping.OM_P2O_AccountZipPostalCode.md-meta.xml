@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <label>OM P2O AccountZipPostalCode</label>
+  <protected>false</protected>
+  <values>
+    <field>ExecutionContext__c</field>
+    <value xsi:type="xsd:string">Order Management</value>
+  </values>
+  <values>
+    <field>GenericMappingExecution__c</field>
+    <value xsi:type="xsd:string">OMProposalToOrder</value>
+  </values>
+  <values>
+    <field>SourcePath__c</field>
+    <value xsi:nil="true"/>
+  </values>
+  <values>
+    <field>SourceObject__c</field>
+    <value xsi:type="xsd:string">Proposal__c</value>
+  </values>
+  <values>
+    <field>SourceField__c</field>
+    <value xsi:type="xsd:string">AccountZipPostalCode__c</value>
+  </values>
+  <values>
+    <field>SourceAttribute__c</field>
+    <value xsi:nil="true"/>
+  </values>
+  <values>
+    <field>SourceAttributeType__c</field>
+    <value xsi:nil="true"/>
+  </values>
+  <values>
+    <field>TargetPath__c</field>
+    <value xsi:nil="true"/>
+  </values>
+  <values>
+    <field>TargetObject__c</field>
+    <value xsi:type="xsd:string">Order</value>
+  </values>
+  <values>
+    <field>TargetField__c</field>
+    <value xsi:type="xsd:string">AccountZipPostalCode__c</value>
+  </values>
+  <values>
+    <field>TargetAttribute__c</field>
+    <value xsi:nil="true"/>
+  </values>
+  <values>
+    <field>TargetAttributeType__c</field>
+    <value xsi:nil="true"/>
+  </values>
+  <values>
+    <field>Transform__c</field>
+    <value xsi:nil="true"/>
+  </values>
+</CustomMetadata>

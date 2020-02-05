@@ -1,0 +1,15 @@
+CustomMetadata:
+- ConfigurationDataMapping.OM_PLI2OI_DeliveryDestination
+- ConfigurationDataMapping.OM_P2O_AccountStreet
+- ConfigurationDataMapping.OM_P2O_AccountHouseNo
+- ConfigurationDataMapping.OM_P2O_AccountZipPostalCode
+- ConfigurationDataMapping.OM_P2O_AccountCity
+- ConfigurationDataMapping.OM_P2O_AccountCountry
+- ConfigurationDataMapping.OM_P2O_KeyAccountName
+- ConfigurationDataMapping.OM_P2O_KeyAccountNo
+- ConfigurationDataMapping.OM_P2O_KeyAccountType
+- ConfigurationDataMapping.OM_P2O_CustomerLocked
+- ConfigurationDataMapping.OM_P2O_GTSCheckPositive
+- ConfigurationDataMapping.OM_P2O_SFAccountID
+- ConfigurationDataMapping.OM_P2O_ZGPID
+- ConfigurationDataMapping.OM_PLI2OI_ShippingType
