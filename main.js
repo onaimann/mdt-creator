@@ -12,7 +12,6 @@ var nowTime = [now.getHours(), now.getMinutes()].join(':')
 var storage = {}
 var pathOutput = './output_' + nowDate + '_' + nowTime
 var path = './Template_MdtExcel.xlsx'
-//  '/Users/onaimann.capgemini/Library/Mobile Documents/com~apple~CloudDocs/Work.Capgemini/Projekte/MAN-ESM/BB_OM-Order-Management/MDT_GenericFieldMapping.xlsx'
 
 //functions
 //...
